@@ -55,6 +55,10 @@ export default new Router({
             component: (resolve)=>require(['@/components/RegExp/index'], resolve)
         },
         {
+            path: '/Modal',//模态框
+            component: (resolve)=>require(['@/components/Modal/index'], resolve)
+        },
+        {
             path: '*',
             component: (resolve)=>require(['@/components/index'], resolve)
         }

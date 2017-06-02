@@ -59,6 +59,7 @@
                 linkList2: [
                     {title: 'metro颜色汇总', to: '/Metro', color: 'E51400'},
                     {title: '正则表达式', to: '/RegExp', color: 'E51400'},
+                    {title: '模态框', to: '/Modal', color: 'E51400'},
                 ],
 
             }
